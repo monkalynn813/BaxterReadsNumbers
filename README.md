@@ -1,5 +1,5 @@
 ## BaxterReadsNumbers
-#### ME 495: Embedded Systems in Robotics
+
 #### _Jordan Haskel, Lukai Jin, Jingyan Ling, James Sohn, Yichi Zhang_
 
 
