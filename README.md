@@ -5,7 +5,7 @@
 
 ## Introduction
 
-This repo contains ROS packages needed to allow Baxter, manufactured by Rethink Robotics, to perform robust block pick and place using single digit handwritten numbers on the object.  
+The project goal is to allow Baxter, manufactured by Rethink Robotics, to perform robust block pick and place using single digit handwritten numbers on the object. The project includes a session of machine learning to recognize handwritten numbers and locate such object in camera frame. Another package works with AR tag assistance to generate the actual transformation matrices in real-world unit from pixel location in camera frame. The robot is able to read such object information quickly and perform pick& place with optimized trajectory planning and without any collision with surroundings. 
 
 ![baxterreadsnumbers](https://github.com/monkalynn813/BaxterReadsNumbers/blob/master/images/IMG_3680.PNG)
 
